@@ -27,10 +27,24 @@ Join the AstroFiesta and start your journey into the whimsical world of QuantumQ
 
 7. You are all set!
 
-## Live Simulation: https://drive.google.com/file/d/1gjcOdznolx3U6SZAXM9zdGjY4ejpofUl/
+## Live Simulation: 
+https://drive.google.com/file/d/1gjcOdznolx3U6SZAXM9zdGjY4ejpofUl/
 
 ![image](https://github.com/ananafrida/quantum-quirk-hub/assets/58756224/15ce94a5-f7be-446f-b566-b3c3d6978ed7)
 ![image](https://github.com/ananafrida/quantum-quirk-hub/assets/58756224/e3d9c0dc-0916-4ac8-a005-5d0be0be6e0d)
 ![image](https://github.com/ananafrida/quantum-quirk-hub/assets/58756224/4faa04c9-b7b4-4f04-a27e-9d89838d265d)
+
+## Motivation Behind the Project
+
+The inspiration for this project stemmed from a fascination with 3D shapes, particularly after encountering the Trefoil example in the Graphics section under "Examples" in Processing. The desire to explore the creative potential of dynamic shapes fueled the inception of this project.
+
+The goal was to infuse a touch of physics reality while maintaining an element of fun. Randomly generated colors combined with various shapes contribute to the vibrant and unpredictable nature of the visual experience.
+
+The concept was further influenced by an image of "iron cutting with a machine," (picture below) which sparked the idea of introducing dynamic sparkles when shapes collide. This collision effect adds an extra layer of visual interest and playfulness to the overall experience.
+
+In essence, this project is a journey into the intersection of art, physics, and spontaneity, aiming to captivate and inspire through the beauty of dynamic 3D shapes and whimsical collisions.
+![image](https://github.com/ananafrida/quantum-quirk-hub/assets/58756224/8e0b3e7b-9263-4e0e-8766-a5e32c2d1ee9)
+
+
 
 
